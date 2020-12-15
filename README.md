@@ -1,2 +1,2 @@
-# basic_digital_wallet
-Fundsaver is a basic digital wallet built in Python
+# FundSaver Digital Wallet
+FundSaver is a Simple Basic Digital Wallet Built In Python
